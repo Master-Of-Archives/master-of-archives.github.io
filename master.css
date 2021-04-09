@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Oldenburg');
 
+body{
+ overflow-x: hidden;
+  height: 100%;
+  width: 100%;
+}
+
 h1{
 
 }
@@ -92,7 +98,7 @@ a:hover{
 }
   
 .content{
-  width: 89.4vw;
+  width: 92vw;
   height: auto;
   min-height: 100vh;
   position: absolute;
