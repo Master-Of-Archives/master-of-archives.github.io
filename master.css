@@ -23,7 +23,13 @@ h4{
 }
 
 h5{
-
+  text-align: center;
+  color: white;
+  margin: 0;
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  z-index: 3;
 }
 
 h6{
@@ -31,7 +37,7 @@ h6{
 }
 
 p{
-
+  text-indent: 30pt;
 }
 
 a{
@@ -43,6 +49,11 @@ a{
 a:hover{
   color: gold;
   transition: all 300ms ease-in-out;
+}
+
+.lore{
+  color: white;
+  font-size: 3vh;
 }
 
 
@@ -154,4 +165,9 @@ a:hover{
   font-size: 14vh;
   text-shadow: -1px 0px 0px #000000, 1px 0px 0px #000000, 0px -1px 0px #000000, 0px 1px 0px #000000; 
   
+}
+
+.infobox{
+  height: 10%;
+  width: 
 }
