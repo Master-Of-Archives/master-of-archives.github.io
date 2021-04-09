@@ -86,6 +86,10 @@ a:hover{
   margin-top: -20%;
   z-index: 2;
 }
+
+#backdrop-aetheria{
+ margin-top: -5%; 
+}
   
 .content{
   width: 89.4vw;
