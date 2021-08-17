@@ -1,0 +1,2 @@
+Iokharic = Draconic
+Rellanic = Elvish / Sylvan
