@@ -1,2 +1,3 @@
 Iokharic = Draconic
 Rellanic = Elvish / Sylvan
+Barazhad = Abyssal / Primordial
