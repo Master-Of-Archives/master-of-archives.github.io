@@ -1,3 +1,21 @@
 Iokharic = Draconic
 Rellanic = Elvish / Sylvan
 Barazhad = Abyssal / Primordial
+
+
+
+@font-face {
+    font-family: 'abyssal';
+    src: url('https://rawcdn.githack.com/Master-Of-Archives/master-of-archives.github.io/eb92a59af16b5092f9e2ccf7117338172953e74c/fonts/barazhad-webfont.woff2') format('woff2'),
+    url('https://rawcdn.githack.com/Master-Of-Archives/master-of-archives.github.io/eb92a59af16b5092f9e2ccf7117338172953e74c/fonts/barazhad-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'elvish';
+    src: url('https://rawcdn.githack.com/Master-Of-Archives/master-of-archives.github.io/f35a7edd63975cc0361438be21e350b92d397c9c/fonts/rellanic-webfont.woff2') format('woff2'),
+    url('https://rawcdn.githack.com/Master-Of-Archives/master-of-archives.github.io/f35a7edd63975cc0361438be21e350b92d397c9c/fonts/rellanic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
