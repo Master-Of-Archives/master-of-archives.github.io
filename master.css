@@ -174,5 +174,18 @@ a:hover{
 
 .infobox{
   height: 10%;
-  width: 
 }
+
+.crusader{
+ height: 20vh;
+ width: 100%;
+ overflow: auto;
+}
+
+.crusader img{
+ float: left;
+ height: auto;
+ width: 40%;
+}
+
+
