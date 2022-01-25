@@ -177,9 +177,10 @@ a:hover{
 }
 
 .crusader{
- height: 20vh;
+ height: 35vh;
  width: 100%;
  overflow: auto;
+ margin-top: 5vh;
 }
 
 .crusader img{
