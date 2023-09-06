@@ -73,11 +73,12 @@ a:hover{
 
 
 .banner{
-  height: 10vh;
+  height: 14vh;
   width: 100%;
   position: absolute;
   top: 0%;
   left: 0%;
+  box-sizing: border-box;
   font-size: 4.2vh;
   overflow: hidden;
   border-top: 2vh #111 solid;
@@ -114,12 +115,13 @@ a:hover{
 }
   
 .content{
-  width: 92vw;
+  width: 100vw;
   height: auto;
   min-height: 100vh;
   position: absolute;
   top: 14vh;
   left: 0vw;
+  box-sizing: border-box;
   border-left: 1.5vw #111 solid;
   border-right: 1.5vw #111 solid;
   border-bottom: 1.5vw #111 solid;
