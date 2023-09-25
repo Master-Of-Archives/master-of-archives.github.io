@@ -10,6 +10,18 @@ h1{
 
 }
 
+h1.starhead, h1.ellehead{
+
+}
+
+h1.starhead{
+color: #67d2ff;
+}
+
+h1.ellehead{
+color: #cbc3c0;
+}
+
 h2{
 
 }
@@ -40,6 +52,19 @@ p{
   text-indent: 30pt;
   margin-right: 5vw;
 }
+
+p.starpost, p.ellepost{
+
+}
+
+p.starpost{
+color: #67d2ff;
+}
+
+p.ellepost{
+color: #cbc3c0;
+}
+
 
 a{
   text-decoration: none;
@@ -191,5 +216,7 @@ a:hover{
  width: 40%;
  margin-right: 2vw;
 }
+
+
 
 
