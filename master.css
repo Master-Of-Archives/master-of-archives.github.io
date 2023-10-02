@@ -90,11 +90,13 @@ a:hover{
  top: 0%;
  left: 5%;
  z-index: 3;
-   background: url(https://i.gifer.com/9vZI.gif) no-repeat;
+   background: url(https://i.ibb.co/NZznD9h/v1A7LP.gif) no-repeat;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-size: cover;
 }
+
+/* https://i.gifer.com/9vZI.gif */
 
 
 .banner{
